@@ -3,5 +3,5 @@ Naturally, this will be a very pro repo.
 Thank you for listening to my Ted talk.
 
 Update 2:
-`We are now in the very cool version.`
+We are now in the very cool version.
 This should be even more pro now.
